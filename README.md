@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/gilbert-baltazar-5b2115a5">IT Professional</a/h1>
+<h1>Hi, I'm Gilbert, an <a href="https://linkedin.com/in/gilbert-baltazar-5b2115a5">IT Professional</a/h1>
 
 <h2> Information Technology Projects:</h2>
 
